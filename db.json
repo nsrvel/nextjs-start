@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 899
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 877
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 866
+    },
+    {
+      "title": "Product 4",
+      "price": "763",
+      "id": 4
+    },
+    {
+      "title": "Product 5",
+      "price": "213",
+      "id": 5
+    },
+    {
+      "title": "Product 6",
+      "price": "678",
+      "id": 6
+    },
+    {
+      "title": "Product 7",
+      "price": "123",
+      "id": 7
+    },
+    {
+      "title": "Product 8",
+      "price": "567",
+      "id": 8
+    },
+    {
+      "title": "Product 9",
+      "price": "456",
+      "id": 9
+    },
+    {
+      "title": "Product 10",
+      "price": "987",
+      "id": 10
+    },
+    {
+      "title": "Coca Cola",
+      "price": "5000",
+      "id": 11
+    }
+  ]
+}
